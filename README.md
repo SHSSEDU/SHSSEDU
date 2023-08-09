@@ -2,9 +2,6 @@
 
 SHSSEDU开源项目管理委员会，其成员体系参见[Roles](https://github.com/SHSSEDU/SHSSEDU/blob/main/ROLES.md)。
 
-## SHSSEDU开源社区推出的内容
-
-- [SHSSEDU人工智能培养方案](https://SHSSEDU.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc)
 
 ## 参与SHSSEDU开源社区
 
