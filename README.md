@@ -11,7 +11,7 @@ SHSSEDU开源项目管理委员会，其成员体系参见[Roles](https://github
 
 ### 参与项目💓
 
-如果你暂时还没有什么想法欢迎浏览我们的[Issue列表](https://github.com/SHSSEDU/SHSSEDU/issues)看看有哪些是你感兴趣的😊，参与到项目中，或者通过[项目看板](https://github.com/SHSSEDU/SHSSEDU/projects/1?fullscreen=true)更直观的看到各个项目的进展状态。
+如果你暂时还没有什么想法欢迎浏览我们的[Issue列表](https://github.com/SHSSEDU/SHSSEDU/issues)看看有哪些是你感兴趣的😊，参与到项目中，或者通过[项目看板](https://github.com/orgs/SHSSEDU/projects/1?fullscreen=true)更直观的看到各个项目的进展状态。
 
 *ps：含有 [`help wanted`](https://github.com/SHSSEDU/SHSSEDU/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)标签的Issue表示该项目有招募需求💡*
 
