@@ -1,0 +1,86 @@
+name: 💡 立项
+description: 在SHSSEDU社区发起一个新的项目
+title: "这里写项目名称"
+assignees: 
+- Sm1les
+- finlay-liu
+- GYHHAHA
+- qiwang067
+- zhanhao93
+- skywateryang
+- andongBlue
+- mba1398
+- NoFish-528
+- ruyiluo
+labels: "立项申请"
+body:
+- type: markdown
+  attributes:
+    value: |
+      👏欢迎你来到SHSSEDU社区发起新的项目，为了便于我们了解你的项目，请填写以下信息~
+- type: checkboxes
+  attributes:
+    label: "你是否已经阅读并同意《SHSSEDU开源项目指南》？"
+    options:
+    - label: "我已阅读并同意[《Datawhale开源项目指南》](https://github.com/SHSSEDU/SHSSEDU/blob/main/GUIDE.md)"
+      required: true
+- type: checkboxes
+  attributes:
+    label: "你是否已经阅读并同意《SHSSEDU开源项目行为准则》？"
+    options:
+    - label: "我已阅读并同意[《Datawhale开源项目行为准则》](https://github.com/SHSSEDU/SHSSEDU/blob/main/CODE_OF_CONDUCT.md)"
+      required: true
+- type: textarea
+  id: description
+  attributes:
+    label: "项目简介"
+    description: "请对你的项目做个简单的介绍~"
+  validations:
+    required: true
+- type: textarea
+  id: motivation
+  attributes:
+    label: "立项理由"
+    description: "请描述一下你发起这个项目的理由~"
+  validations:
+    required: true
+- type: textarea
+  id: audience
+  attributes:
+    label: "项目受众"
+    description: "请描述一下这个项目所面向的受众~"
+  validations:
+    required: true
+- type: textarea
+  id: highlight
+  attributes:
+    label: "项目亮点"
+    description: "请确保已对类似项目做过充分调研，如果已有类似项目，请详细列出，并阐述本项目的不同之处~"
+  validations:
+    required: true
+- type: textarea
+  id: plan
+  attributes:
+    label: "项目规划"
+    description: "请分别从内容、时间和人员三个方面描述一下你的项目规划~"
+    value: |
+      至少包括以下内容：
+      1.目录（如有多级至少精确到二级）
+      2.各章节负责人
+      3.各章节预估完成日期
+      4.可预见的困难
+  validations:
+    required: true
+- type: textarea
+  id: profile
+  attributes:
+    label: "项目负责人"
+    description: "请在下方填写项目负责人的GitHub主页链接以及联系方式~"
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: "备注：发起立项申请后SHSSEDU将会在 72h 之内给出答复，如超时未答复请联系SHSSEDU负责人问询~"
+    options:
+    - label: "我已知悉上述备注"
+      required: true
