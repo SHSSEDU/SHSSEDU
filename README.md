@@ -1,5 +1,8 @@
 # SHSSEDU开源项目管理委员会
 
+# 社区规范
+[《SHSSEDU社区规范》](https://srs.comein.cn/static/web/viewer.html?file=https://gcore.jsdelivr.net/gh/SHSSEDU/SHSSEDU@main/%E7%A4%BE%E5%8C%BA%E8%A7%84%E8%8C%83.pdf)
+
 SHSSEDU开源项目管理委员会，其成员体系参见[Roles](https://github.com/SHSSEDU/SHSSEDU/blob/main/ROLES.md)。
 
 
